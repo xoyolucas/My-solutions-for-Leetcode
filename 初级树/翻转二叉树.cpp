@@ -14,8 +14,8 @@ public:
             return root;
         TreeNode* right=invertTree(root->left);
         TreeNode* left=invertTree(root->right);
-        root->left=right;
-        root->right=left;
+        root->right=right;
+        root->left=left;
         return root;
     }
 };
