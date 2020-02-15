@@ -1,7 +1,7 @@
 # My-solutions-for-Leetcode
 My-solutions-for-Leetcode
 
-easy:   
+## easy:   
 0020.Valid Parentheses  
 0026.remove-duplicates-from-sorted-array  
 0053.maximum-sum-subarray   
@@ -35,7 +35,7 @@ easy:
 1260.shift-2d-grid  
 1332.remove-palindromic-subsequences
 
-medium:  
+## medium:  
 0002.Add Two Numbers  
 0003.Longest Substring Without Repeating Characters  
 0005.longest-palindromic-substring  
@@ -132,3 +132,24 @@ medium:
 1297.maximum-number-of-occurrences-of-a-substring  
 1310.xor-queries-of-a-subarray  
 1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+
+## hard:
+0004.median-of-two-sorted-array  
+0023.merge-k-sorted-lists  
+0025.reverse-nodes-in-k-group  
+0030.substring-with-concatenation-of-all-words  
+0032.longest-valid-parentheses  
+0042.trapping-rain-water  
+0124.binary-tree-maximum-path-sum  
+0128.longest-consecutive-sequence  
+0145.binary-tree-postorder-traversal  
+0146.lru-cache  
+0212.word-search-ii  
+0239.sliding-window-maximum  
+0295.find-median-from-data-stream  
+0301.remove-invalid-parentheses  
+0335.self-crossPing  
+0460.lfu-cache  
+0472.concatenated-words  
+0493.reverse-pairs  
+1168.optimize-water-distribution-in-a-village
