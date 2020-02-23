@@ -38,7 +38,7 @@ My-solutions-for-Leetcode
 ## medium:  
 0002.Add Two Numbers  
 0003.Longest Substring Without Repeating Characters  
-0005.longest-palindromic-substring(DP)  
+0005.longest-palindromic-substring(DP) ⚡
 0011.container-with-most-water  
 0015.3-sum  
 0019.Remove Nth Node From End of List  
