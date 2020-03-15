@@ -44,7 +44,7 @@ My-solutions-for-Leetcode
 0019.Remove Nth Node From End of List  
 0024.Swap Nodes In Pairs  
 0029.divide-two-integers  
-0031.next-permutation  
+0031.next-permutation (数组)  
 0033.search-in-rotated-sorted-array  
 0039.combination-sum (递归回溯) ⚡
 0040.combination-sum-ii  
