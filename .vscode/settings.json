@@ -45,5 +45,7 @@
         "set": "cpp",
         "string": "cpp",
         "tuple": "cpp"
-    }
+    },
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Users\\xoyol\\Anaconda3\\python.exe"
 }
