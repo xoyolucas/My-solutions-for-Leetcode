@@ -52,7 +52,7 @@ My-solutions-for-Leetcode
 0047.permutations-ii (回溯)  
 0048.rotate-image  
 0049.group-anagrams  
-0050.pow-x-n  
+0050.pow-x-n(math)  
 0055.jump-game  
 0056.merge-intervals  
 0060.permutation-sequence  
