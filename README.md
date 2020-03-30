@@ -57,7 +57,7 @@ My-solutions-for-Leetcode
 0056.merge-intervals  
 0060.permutation-sequence  
 0062.unique-paths(dp)  
-0073.set-matrix-zeroes  
+0073.set-matrix-zeroes(Array)  
 0075.sort-colors  
 0078.subsets  
 0079.word-search  
