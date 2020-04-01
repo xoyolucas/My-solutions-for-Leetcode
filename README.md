@@ -152,4 +152,16 @@ My-solutions-for-Leetcode
 0460.lfu-cache  
 0472.concatenated-words  
 0493.reverse-pairs  
-1168.optimize-water-distribution-in-a-village
+1168.optimize-water-distribution-in-a-village  
+
+-------------
+### easy
+- 27.移除元素(数组、双指针)
+- 67.二进制求和(数字、字符串)
+- 69.x的平方根(数学、二分查找)
+- 83.删除排序链表中的重复元素(链表)
+
+### medium
+- 12.整数转罗马数字(数字、字符串)
+
+### hard
