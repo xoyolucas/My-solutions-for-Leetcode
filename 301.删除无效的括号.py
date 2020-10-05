@@ -42,9 +42,9 @@ class Solution:
         def isValid(s):
             count = 0
             for c in s:
-                if c == "(":
+                if c == '(':
                     count += 1
-                elif c == ")":
+                elif c == ')':
                     count -= 1
                 if count < 0:
                     return False  # 只用count出现了负值，终止循环，已经出现非法字符
@@ -61,7 +61,7 @@ class Solution:
             next_level = set()
             for item in level:
                 for i in range(len(item)):
-                    if item[i] in "()":  # 如果item[i]这个char是个括号就删了，如果不是括号就留着
+                    if item[i] in '()':  # 如果item[i]这个char是个括号就删了，如果不是括号就留着
                         next_level.add(item[:i] + item[i + 1 :])
             level = next_level
 
