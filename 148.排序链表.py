@@ -45,6 +45,7 @@ class Solution:
 
         res = ListNode(0)
         res.next = head
+        # size归并排序子串的长度
         while size < length:
             new_head = res.next
             prev = res
@@ -83,7 +84,8 @@ class Solution:
                     prev.next, h2 = h2, h2.next
                     count2 -= 1
                     prev = prev.next
-                prev.next = new_head #合并后的子串next指向还未合并的头部
+                #合并后的子串next指向还未合并的头部
+                prev.next = new_head
 
             size *= 2  # 子串长度翻倍
 
