@@ -44,7 +44,8 @@
         "map": "cpp",
         "set": "cpp",
         "string": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "queue": "cpp"
     },
     "python.formatting.provider": "black",
     "python.pythonPath": "C:\\Users\\xoyol\\Anaconda3\\python.exe"
